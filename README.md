@@ -84,13 +84,14 @@ Binary (or base-2) a numeric system that only uses two digits — 0 and 1. Compu
      let x;
      console.log(x); // shows "undefined"
      
-     Math Operators
-    Don't panic !  breathe :) Math doesn't need to be your strong-suit to learn JavaScript. However, there are operators you'll need to know to make useful programs.
+  Math Operators
+  Don't panic !  breathe :) Math doesn't need to be your strong-suit to learn JavaScript. However, there are operators 	 you'll need to know to make useful programs.
     JavaScript supports the following math operators:
       1.	Add: +
       2.	Subtract: - 
       3.	Multiply: * 
       4.	Divide: /
+    
     Important note :- 
     When operators appear together without parentheses, the order in which they are applied is determined by the precedence of the operators. Multiplication comes before addition. The / operator has the same precedence as *. Likewise for + and -. When multiple operators with the same precedence appear next to each other, as in 1 - 2 + 1, they are applied left to right: (1 - 2) + 1.
     Exercise-
