@@ -1,5 +1,5 @@
-# Chapter 1
-# Javascript---Values-Datatypes-Operators
+## Chapter 1
+### javaScript - values - dataTypes - operators
 
 ## What is JavaScript?
 
