@@ -1,14 +1,18 @@
+# Chapter 1
 # Javascript---Values-Datatypes-Operators
 
-What is JavaScript?
+## What is JavaScript?
 
-The JavaScript programming language is used to write programs that run in web pages. JavaScript can control how a web page looks or make the page respond when a viewer clicks a button or moves the mouse. Sites like Gmail, Facebook, and Twitter use JavaScript to make it easier to send email, post comments, or browse websites. 
+The **JavaScript programming language** is used to write programs that run in web pages. JavaScript can control how a web page looks or make the page respond when a viewer clicks a button or moves the mouse. Sites like Gmail, Facebook, and Twitter use JavaScript to make it easier to send email, post comments, or browse websites. 
 
-	•	 JavaScript lets you play music and create amazing visual effects. For example, you can fly through an interactive music video created by HelloEnjoy for Ellie Goulding’s song “Lights(http://lights.helloenjoy.com/) 
+* JavaScript lets you play music and create amazing visual effects. For example, you can fly through an interactive music video created by HelloEnjoy for Ellie Goulding’s song “Lights(http://lights.helloenjoy.com/)
+  
+* JavaScript lets you build tools for others to make their own art. Patatap (http://www.patatap.com/) is a kind of virtual “drum machine” that creates all kinds of cool noises.
 
-	•	JavaScript lets you build tools for others to make their own art. Patatap (http://www.patatap.com/) is a kind of virtual “drum machine” that creates all kinds of cool noises. 
 
-	•	JavaScript lets you play fun games. CubeSlam (https://www .cubeslam.com/) is a 3D re-creation of the classic game Pong, which looks a little like air hockey. You can play against one of your friends or a computer-generated bear 
+* JavaScript lets you play fun games. CubeSlam (https://www .cubeslam.com/) is a 3D re-creation of the classic game Pong, which looks a little like air hockey. You can play against one of your friends or a computer-generated bear 
+
+	
 
 Why learn JavaScript?
 JavaScript is a great programming language to learn because it’s used everywhere. Web browsers like Chrome, Firefox, and Internet Explorer all use JavaScript. With the power of JavaScript, web programmers can transform web pages from simple documents into full-blown interactive applications and games.
