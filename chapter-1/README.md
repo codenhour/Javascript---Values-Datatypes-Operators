@@ -20,7 +20,9 @@ JavaScript is a great programming language to learn because it’s used everywhe
 ## Writing Some JavaScript
 ### Console
 The console is a tool that developers use to record the output of their JavaScript programs.The console.log() command is used to print, or log, text to the console. Consider the following example:
-console.log(‘Hello! Whats up!’)
+>console.log(‘Hello! Whats up!’)
+
+![Repl](./images/console.png)
 
 ## Variables
  JavaScript lets you give names to values using variables. To create a new variable, use the keyword var, followed by the name of the variable. A keyword is a word that has special meaning in JavaScript. 
