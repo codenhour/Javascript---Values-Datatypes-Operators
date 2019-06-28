@@ -14,39 +14,50 @@ The **JavaScript programming language** is used to write programs that run in we
 
 	
 
-Why learn JavaScript?
+## Why learn JavaScript?
 JavaScript is a great programming language to learn because it’s used everywhere. Web browsers like Chrome, Firefox, and Internet Explorer all use JavaScript. With the power of JavaScript, web programmers can transform web pages from simple documents into full-blown interactive applications and games.
 
-Writing Some JavaScript
-Console
+## Writing Some JavaScript
+### Console
 The console is a tool that developers use to record the output of their JavaScript programs.The console.log() command is used to print, or log, text to the console. Consider the following example:
 console.log(‘Hello! Whats up!’)
 
-Variables
-        JavaScript lets you give names to values using variables. To create a new variable, use the keyword var, followed by the name of the variable. A keyword is a word that has special meaning in JavaScript. 
-        For example, here’s how you’d make a new variable called:
-		var dog = ‘Posti’;
+## Variables
+ JavaScript lets you give names to values using variables. To create a new variable, use the keyword var, followed by the name of the variable. A keyword is a word that has special meaning in JavaScript. 
 
+ For example, here’s how you’d make a new variable called:
 
+>var dog = ‘Posti’;
 
-
-Data -  
+## Data -  
 Computer data is information processed or stored by a computer. This information may be in the form of text documents, images, audio clips, software programs, or other types of data. Computer data may be processed by the computer's CPU and is stored in files and folders on the computer's hard disk.
 
-Binary - 
+## Binary - 
 Binary (or base-2) a numeric system that only uses two digits — 0 and 1. Computers operate in binary, meaning they store data and perform calculations using only zeros and ones.
-  A single binary digit can only represent True (1) or False (0) in boolean logic.
-    Any integer can be represented in binary.
-      Examples:
-        1	1	20
-        2	10	2
-        3	11	21 + 20
-        4	100	22
-        5	101	22+ 20
-        6	110	22 + 21
-        7	111	22 + 21 + 20
-        8	1000	23
-        9	1001	23 + 20
+
+A single binary digit can only represent True (1) or False (0) in boolean logic.
+
+Any integer can be represented in binary.
+
+Examples:
+
+>1 	1	20
+
+>2	10	2
+
+>3	11	21 + 20
+
+>4	100	22
+
+>5	101	22+ 20
+
+>6	110	22 + 21
+
+>7	111	22 + 21 + 20
+
+>8	1000	23
+
+>9	1001	23 + 20
     One bit contains a single binary value — either a 0 or a 1. A byte contains eight bits, 
 
   Values - 
